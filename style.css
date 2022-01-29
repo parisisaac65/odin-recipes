@@ -1,3 +1,31 @@
+html{
+  font-family: Optima, Verdana, Helvetica, sans-serif; 
+}
+
+body {
+  background-color:rgb(250, 245, 190, 0.2);
+}
+
 h1 {
   text-align:center;
+}  
+
+.main-title {
+  font-size: 50px;
+}
+
+.main-links {
+  font-size: 25px;
+}
+
+.image {
+  height: 400px;
+  width: 200px; 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
 }
